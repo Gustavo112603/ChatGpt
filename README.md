@@ -25,6 +25,8 @@ A arquitetura GPT-3.5 é uma versão mais eficiente e escalável do GPT-3, com c
 
 # **Teste**
 
-ChatGpt 1: apresenta bom comportamento, não a risco informação precisa e claras.
-ChatGpt 2: apresenta um vasto conhecimento.
-ChatGpt 3: aprendizado avançado.
+ChatGpt teste 1: apresenta bom comportamento, não a risco informação precisa e claras.
+
+ChatGpt teste 2: apresenta um vasto conhecimento.
+
+ChatGpt teste 3: aprendizado avançado.
