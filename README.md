@@ -9,8 +9,6 @@ O ChatGPT tem sido usado em uma variedade de aplicativos, incluindo assistentes 
 
 
 
-**Qual é a confiabilidade do ChatGpt ?**
-
 
 Como modelo de linguagem, o ChatGPT é altamente confiável para gerar respostas e realizar tarefas relacionadas à linguagem natural. Ele foi treinado em grandes quantidades de dados linguísticos e pode gerar respostas com base em informações disponíveis em seu conjunto de dados de treinamento.
 
