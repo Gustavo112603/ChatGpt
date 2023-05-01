@@ -21,3 +21,10 @@ Observação:
 A arquitetura GPT-3.5 é uma variação da arquitetura GPT-3 (Generative Pre-trained Transformer 3) desenvolvida pela OpenAI. O GPT-3 é um modelo de linguagem de grande escala, com 175 bilhões de parâmetros, que é capaz de gerar texto de qualidade surpreendente, respondendo a perguntas, completando frases e até mesmo escrevendo artigos completos.
 
 A arquitetura GPT-3.5 é uma versão mais eficiente e escalável do GPT-3, com cerca de 35 bilhões de parâmetros, que foi desenvolvida com o objetivo de tornar a tecnologia de modelos de linguagem mais acessível e sustentável. Embora o GPT-3.5 possua menos parâmetros do que o GPT-3, ele ainda é capaz de produzir texto de alta qualidade e é uma opção mais viável para muitas aplicações.
+
+
+# **Teste**
+
+ChatGpt 1: apresenta bom comportamento, não a risco informação precisa e claras.
+ChatGpt 2: apresenta um vasto conhecimento.
+ChatGpt 3: aprendizado avançado.
