@@ -6,3 +6,14 @@ O ChatGPT é um exemplo de modelo de linguagem de última geração que usa apre
 O ChatGPT tem sido usado em uma variedade de aplicativos, incluindo assistentes virtuais, chatbots e sistemas de respostas automáticas. Ele é capaz de gerar respostas em uma variedade de idiomas, incluindo inglês, espanhol, francês, alemão, italiano, japonês e chinês.
 
 **Embora o ChatGPT seja um modelo impressionante, ele não é perfeito e pode produzir resultados imprecisos ou inadequados em algumas situações. Ele também pode ser afetado por preconceitos e desigualdades encontrados nos dados de treinamento. Por isso, é importante usá-lo com cautela e sempre verificar seus resultados antes de confiar neles completamente**.
+
+
+
+**Qual é a confiabilidade do ChatGpt ?**
+
+
+Como modelo de linguagem, o ChatGPT é altamente confiável para gerar respostas e realizar tarefas relacionadas à linguagem natural. Ele foi treinado em grandes quantidades de dados linguísticos e pode gerar respostas com base em informações disponíveis em seu conjunto de dados de treinamento.
+
+No entanto, é importante observar que o ChatGPT é uma inteligência artificial e, como tal, pode não ser capaz de fornecer respostas precisas ou completas em todos os casos. Além disso, sua capacidade de fornecer respostas precisas depende da qualidade das informações fornecidas na entrada.
+
+Dito isso, o ChatGPT é uma das ferramentas mais avançadas disponíveis atualmente para lidar com tarefas relacionadas à linguagem natural e tem sido usado em uma ampla variedade de aplicações em diversos campos, incluindo atendimento ao cliente, educação e pesquisa.
