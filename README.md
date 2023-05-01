@@ -30,3 +30,5 @@ ChatGpt teste 1: apresenta bom comportamento, não a risco informação precisa 
 ChatGpt teste 2: apresenta um vasto conhecimento.
 
 ChatGpt teste 3: aprendizado avançado.
+
+ChatGpt teste 4: não apresenta linguagem imprópria.
